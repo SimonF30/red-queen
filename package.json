@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@uuv/assistant": "^1.8.0",
+    "@uuv/cypress": "^1.7.2",
+    "@uuv/playwright": "^1.8.0"
+  }
+}
